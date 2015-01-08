@@ -13,7 +13,10 @@ How to form a team:
        Find your name in the students.txt file and copy that whole line
        into team_X/members.txt (preserve the student number, tabs etc.)
   6) Add and commit your "team_X/members.txt" and push it to your fork.
-  7) Send a pull request.
+  7) Add a file "team_X/repo.txt" which includes the URL to the main
+     githup repository you will be using for development during your
+     project. If this changes at any point, you must make a pull request
+     to update this link.
+  8) Send a pull request.
 
 If you get any of these details wrong, you will be asked to try again.
-
