@@ -1,0 +1,19 @@
+============================================================================
+  7CCSMGPR 2015
+============================================================================
+
+How to form a team:
+
+  1) Designate a team coordinator.
+  2) Have the coordinator fork this repository.
+  3) Create a directory in your fork called "team_X" where X is the name
+     of your team.
+  4) In your team_X directory create a filed called "members.txt"
+  5) For each team member:
+       Find your name in the students.txt file and copy that whole line
+       into team_X/members.txt (preserve the student number, tabs etc.)
+  6) Add and commit your "team_X/members.txt" and push it to your fork.
+  7) Send a pull request.
+
+If you get any of these details wrong, you will be asked to try again.
+
