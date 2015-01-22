@@ -1,1 +1,1 @@
-https://github.com/NaveenaMohan/traffic_simulator.git
+https://github.com/NaveenaMohan/traffic_simulator
