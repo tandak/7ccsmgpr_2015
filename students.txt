@@ -1,6 +1,5 @@
 0310903/2	Suleiman, Alan	alan.suleiman@kcl.ac.uk
 0808788/1	Czapski, Fabian Sebastian	fabian.czapski@kcl.ac.uk
-0818128/1	Gibson, Finley John	finley.gibson@kcl.ac.uk
 1108987/3	Orlean-Taub, Paul	paul.orlean-taub@kcl.ac.uk
 1111370/3	Allen, Rochelle Joyce	rochelle.allen@kcl.ac.uk
 1117649/1	Aziz, Waqar Ali	waqar.aziz@kcl.ac.uk
@@ -36,9 +35,7 @@
 1462374/1	Tsiopoulos, Anthony	anthony.tsiopoulos@kcl.ac.uk
 1463980/1	Duan, Zhaoxu	zhaoxu.duan@kcl.ac.uk
 1464558/1	Wang, Jerry Lu	jerry.wang@kcl.ac.uk
-1464584/1	Yashwanth, Siddhartha Moodbidri	siddhartha.yashwanth@kcl.ac.uk
 1466316/1	Arsakhanov, Nur-Magomed	nur-magomed.arsakhanov@kcl.ac.uk
-1466333/1	Schoisengeier, Adrian	adrian.schoisengeier@kcl.ac.uk
 1466371/1	Saalim, Adeela Wazir	adeela.saalim@kcl.ac.uk
 1466384/1	Sohn, Inyeol	inyeol.sohn@kcl.ac.uk
 1467280/1	Paschalidis, Iordanis	iordanis.paschalidis@kcl.ac.uk
@@ -47,7 +44,6 @@
 1471662/1	Mariani, Filippo	filippo.mariani@kcl.ac.uk
 1472443/1	Kabanda, Tanda	tanda.kabanda@kcl.ac.uk
 1472497/1	Dmukhovskiy, Anton	anton.dmukhovskiy@kcl.ac.uk
-1473018/1	Orru, Andrea	andrea.orru@kcl.ac.uk
 1473339/1	Demetriou, Andria	andria.demetriou@kcl.ac.uk
 1473383/1	Norman-William, Belema Emily	belema.norman-william@kcl.ac.uk
 1474143/1	Vasilishin, Maxim	maxim.vasilishin@kcl.ac.uk
