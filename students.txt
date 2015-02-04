@@ -45,7 +45,6 @@
 1471662/1	Mariani, Filippo	filippo.mariani@kcl.ac.uk
 1472443/1	Kabanda, Tanda	tanda.kabanda@kcl.ac.uk
 1472497/1	Dmukhovskiy, Anton	anton.dmukhovskiy@kcl.ac.uk
-1473018/1	Orru, Andrea	andrea.orru@kcl.ac.uk
 1473339/1	Dimitriou, Antria	andria.demetriou@kcl.ac.uk
 1473383/1	Norman-William, Belema Emily	belema.norman-william@kcl.ac.uk
 1474143/1	Vasilishin, Maxim	maxim.vasilishin@kcl.ac.uk
