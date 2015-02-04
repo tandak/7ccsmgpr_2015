@@ -1,6 +1,5 @@
 0310903/2	Suleiman, Alan	alan.suleiman@kcl.ac.uk
 0808788/1	Czapski, Fabian Sebastian	fabian.czapski@kcl.ac.uk
-0818128/1	Gibson, Finley John	finley.gibson@kcl.ac.uk
 1108987/3	Orlean-Taub, Paul	paul.orlean-taub@kcl.ac.uk
 1111370/3	Allen, Rochelle Joyce	rochelle.allen@kcl.ac.uk
 1117649/1	Aziz, Waqar Ali	waqar.aziz@kcl.ac.uk
@@ -10,6 +9,7 @@
 1274372/2	Riyamongkol, Pongsakorn	pongsakorn.riyamongkol@kcl.ac.uk
 1347369/1	Mukasa, Eddy	eddy.mukasa@kcl.ac.uk
 1347663/1	Vicente Villalta, Rolando Alexander	rolando.vicente_villalta@kcl.ac.uk
+1350764/1	Yamani, Lujain Bassam A	lujain.yamani@kcl.ac.uk
 1353926/1	Nikolaidis, Maximilian	maximilian.nikolaidis@kcl.ac.uk
 1360681/1	Rohr, Leonhard	leonhard.rohr@kcl.ac.uk
 1412858/2	Ding, Jie	jie.ding@kcl.ac.uk
@@ -36,9 +36,7 @@
 1462374/1	Tsiopoulos, Anthony	anthony.tsiopoulos@kcl.ac.uk
 1463980/1	Duan, Zhaoxu	zhaoxu.duan@kcl.ac.uk
 1464558/1	Wang, Jerry Lu	jerry.wang@kcl.ac.uk
-1464584/1	Yashwanth, Siddhartha Moodbidri	siddhartha.yashwanth@kcl.ac.uk
 1466316/1	Arsakhanov, Nur-Magomed	nur-magomed.arsakhanov@kcl.ac.uk
-1466333/1	Schoisengeier, Adrian	adrian.schoisengeier@kcl.ac.uk
 1466371/1	Saalim, Adeela Wazir	adeela.saalim@kcl.ac.uk
 1466384/1	Sohn, Inyeol	inyeol.sohn@kcl.ac.uk
 1467280/1	Paschalidis, Iordanis	iordanis.paschalidis@kcl.ac.uk
